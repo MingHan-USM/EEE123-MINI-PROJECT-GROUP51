@@ -1,0 +1,2 @@
+# EEE123-MINI-PROJECT-GROUP51
+EE Smart Calculator
